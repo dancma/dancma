@@ -1,6 +1,5 @@
 ### Olá, eu sou o Daniel 🖖 
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5599985019202&text=Olá%20Bom%20Dia!)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-costa-machado-83a4a1246/)
 
 
