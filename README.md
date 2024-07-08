@@ -19,7 +19,12 @@
 </div></br>
 
 ### 🧑‍💻Sobre
-Sou um desenvolvedor front-end buscando aprimorar cada dia mais minhas habilidades através de estudos e projetos práticos. Sempre busco aprender novas tecnologias com o objetivo de me tornar um fullstack. Dentre minhas experiências inclui trabalhos com HTML, CSS, JS, Bootstrap e Tailwind CSS.  Se você está procurando um programador front-end motivado e com vontade de aprender cada vez mais, estou disposto a contribuir com você e seu projeto.
+Sou um desenvolvedor Front-End, graduado em Análise e Desenvolvimento de Sistemas pela UniFacema - Caxias. Atualmente tenho estuado com o objetivo de me tomar um desenvolver full stack.
+
+Estou sempre em busca de aprimorar cada dia mais minhas habilidades profissionais através de estudos e projetos práticos relacionados à área de tecnologia para me manter atualizado com o mercado de trabalho e as novas tecnologias emergentes, sempre priorizando qualidade e agilidade. 
+Tenho conhecimento em HTML, CSS, JS, Bootstrap e Tailwind CSS.
+
+Se você está procurando um programador front-end motivado e com vontade de aprender cada vez mais, estou disposto a contribuir com você e seu projeto.
 
 ### ☎️Contatos
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5599985019202&text=Olá%20Bom%20Dia!)
