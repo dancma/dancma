@@ -21,7 +21,7 @@
 </div></br>
 
 ### 🧑‍💻Sobre
-Sou um desenvolvedor Front-End, graduado em Análise e Desenvolvimento de Sistemas pela UniFacema - Caxias. Atualmente tenho estuado com o objetivo de me tomar um desenvolver full stack.
+Sou um desenvolvedor Front-End, graduado em Análise e Desenvolvimento de Sistemas pela UniFacema - Caxias. Atualmente tenho estudado com o objetivo de me tomar um desenvolver full stack.
 
 Estou sempre em busca de aprimorar cada dia mais minhas habilidades profissionais através de estudos e projetos práticos relacionados à área de tecnologia para me manter atualizado com o mercado de trabalho e as novas tecnologias emergentes, sempre priorizando qualidade e agilidade. 
 Tenho conhecimento em HTML, CSS, JS, Bootstrap e Tailwind CSS e alguns projetos desevolvidos com essas ferramentas.
